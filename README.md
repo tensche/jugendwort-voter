@@ -11,7 +11,6 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-- [Contributing](#wave-contributing)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
@@ -80,10 +79,11 @@ node script.js
 
 ## :warning: License
 
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## :handshake: Contact
 
-noah - - contact@tenschi.de
+- E-Mail contact@tenschi.de
+- Telegram [@Tenschi](https://t.me/tenschi)
 
 Project Link: [https://github.com/tensche/jugendwort-voter](https://github.com/tensche/jugendwort-voter)
