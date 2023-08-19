@@ -78,14 +78,6 @@ node script.js
 
 
 
-## :wave: Contributing
-
-<a href="https://github.com/tensche/jugendwort-voter/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-
-Contributions are always welcome!
-
-see `contributing.md` for ways to get started
-
 ## :warning: License
 
 Distributed under the no License. See LICENSE.txt for more information.
