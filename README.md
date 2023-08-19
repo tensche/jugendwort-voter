@@ -19,7 +19,7 @@
 
 ### :dart: Features
 
-- ✔️Captcha-API [(2captcha)](https://2captcha.com/?from=13644405)
+- ✔️Captcha-API ([2captcha](https://2captcha.com/?from=13644405))
 - ✔️Vote-API
 - ❌Multithreading
 - ❌Support for proxies
