@@ -87,3 +87,5 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 - Telegram [@Tenschi](https://t.me/tenschi)
 
 Project Link: [https://github.com/tensche/jugendwort-voter](https://github.com/tensche/jugendwort-voter)
+
+(It's probably never gonna get any updates because it was just a project to practice and manage API-Calls)
